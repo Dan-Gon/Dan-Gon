@@ -8,7 +8,7 @@
 </br>
 <h2>What I am working on:</h2>
 <ol>
-  <li>Learning web development</li>
+  <li>👨🏽‍💻 -Learning web development</li>
 </ol>
 
 <!--

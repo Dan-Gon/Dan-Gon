@@ -2,6 +2,9 @@
 <h3>My name is Daniel and I am a Computer Science student who has chosen the path of pain and struggle, meaning I have chosen to focus on JavaScript, CSS and HTML!</h3>
 </br>
 <h2>What I am working on:</h2>
+<ol>
+  <li>Learning web development</li>
+</ol>
 
 <!--
 **recursiveDan/recursiveDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,14 +3,9 @@
 </br>
 <h2>What I enjoy:</h2>
 <ol>
-  <li>I enjoy Art, music, reading and the science of computers!</li>
+  <li>Art, music, reading and the science of computers!</li>
 </ol>  
 </br>
-<h2>What I am working on:</h2>
-<ol>
-  <li>👨🏽‍💻 -Learning web development</li>
-  <li> Learning DSA </li>
-</ol>
 
 <!--
 **recursiveDan/recursiveDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

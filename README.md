@@ -10,6 +10,9 @@
   <li>Improving my portfolio.📕</li>
   <li>Improving soft skills (always).🎙 </li>
 </ol>
+<h2>What I am intersted in:</h2>
+<ol>
+  <li>Everything! Seriously, I believe everything in technology is a tool and has a place. I find it all very intriguing and hope to dabble in a little bit of everything. 💬</li>
 </br>
 
 <!--

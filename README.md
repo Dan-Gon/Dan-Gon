@@ -3,22 +3,23 @@
 <hr>
 <h2>What I enjoy:</h2>
 <ul>
-  <li>Watching people succeed</li>
-  <li>Art</li>
-  <li>music</li> 
-  <li>reading</li>
-  <li>technology(All of it)!🧑🏽‍💻</li>
+  <li>Watching people succeed💯</li>
+  <li>Art🎨</li>
+  <li>Music🎧</li> 
+  <li>Reading📘</li>
+  <li>Technology(All of it)!🧑🏽‍💻</li>
 </ul> 
 <h2>What I am working on:</h2>
 <ul>
   <li>Improving my portfolio.📕</li>
-  <li>Improving soft skills (always).🎙 </li>
-  <li>Finding out where I can help</li>
+  <li>Improving soft skills(always).🎙</li>
+  <li>Finding out where I can help.🙏🏽</li>
 </ul>
 <h2>What I am intersted in:</h2>
 <ul>
-  <li>People and equality</li> 
-  <li>I am also interested in how we can preserve our beautiful Earth.</li>
+  <li>Family(Both blood and not).🏠</li>
+  <li>People and equality.🫶🏽</li> 
+  <li>I am also interested in how we can preserve our beautiful Earth.🌎</li>
   <li>I am interested in things beyond what we see. 💬</li>
 
 </ul>

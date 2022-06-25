@@ -3,12 +3,13 @@
 </br>
 <h2>What I enjoy:</h2>
 <ol>
-  <li>Art, music, reading and technology(All of it)!🧑🏽‍💻</li>
+  <li>Watching people succeed, Art, music, reading and technology(All of it)!🧑🏽‍💻</li>
 </ol> 
 <h2>What I am working on:</h2>
 <ol>
   <li>Improving my portfolio.📕</li>
   <li>Improving soft skills (always).🎙 </li>
+  <li>Finding out where I can help</li>
 </ol>
 <h2>What I am intersted in:</h2>
 <ol>

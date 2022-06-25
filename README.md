@@ -3,7 +3,7 @@
 <hr>
 <h2>What I enjoy:</h2>
 <ul>
-  <li>Watching people succeed💯</li>
+  <li>Watching people succeed.💯</li>
   <li>Art.🎨</li>
   <li>Music.🎧</li> 
   <li>Reading.📘</li>

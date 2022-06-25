@@ -3,7 +3,7 @@
 </br>
 <h2>What I enjoy:</h2>
 <ol>
-  <li>Art, music, reading and the science of computers!🧑🏽‍💻</li>
+  <li>Art, music, reading and technology(All of it)!🧑🏽‍💻</li>
 </ol> 
 <h2>What I am working on:</h2>
 <ol>
@@ -12,7 +12,7 @@
 </ol>
 <h2>What I am intersted in:</h2>
 <ol>
-  <li>Everything! Seriously, I believe everything in technology is a tool and has a place. I find it all very intriguing and hope to dabble in a little bit of everything. 💬</li>
+  <li>People and equality. I am also interested in how we can preserve our beautiful Earth. I am interested in things beyond what we see. 💬</li>
 </br>
 
 <!--

@@ -4,9 +4,9 @@
 <h2>What I enjoy:</h2>
 <ul>
   <li>Watching people succeed💯</li>
-  <li>Art🎨</li>
-  <li>Music🎧</li> 
-  <li>Reading📘</li>
+  <li>Art.🎨</li>
+  <li>Music.🎧</li> 
+  <li>Reading.📘</li>
   <li>Technology(All of it)!🧑🏽‍💻</li>
 </ul> 
 <h2>What I am working on:</h2>

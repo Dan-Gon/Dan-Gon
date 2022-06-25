@@ -2,13 +2,13 @@
 <h3>My name is Daniel (He/ Him) and I am a Computer Science student!</h3>
 <hr>
 <h2>What I enjoy:</h2>
-<ol>
+<ul>
   <li>Watching people succeed</li>
   <li>Art</li>
   <li>music</li> 
   <li>reading</li>
   <li>technology(All of it)!🧑🏽‍💻</li>
-</ol> 
+</ul> 
 <h2>What I am working on:</h2>
 <ul>
   <li>Improving my portfolio.📕</li>

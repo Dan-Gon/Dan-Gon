@@ -1,28 +1,6 @@
-<h1>Greetings! 🤖</h1>
-<h3>My name is Daniel (He/ Him) and I am a Computer Science student!</h3>
-<hr>
-<h2>What I enjoy:</h2>
-<ul>
-  <li>Watching people succeed.💯</li>
-  <li>Art.🎨</li>
-  <li>Music.🎧</li> 
-  <li>Reading.📘</li>
-  <li>Technology(All of it)!🧑🏽‍💻</li>
-</ul> 
-<h2>What I am working on:</h2>
-<ul>
-  <li>Improving my portfolio.📕</li>
-  <li>Improving soft skills(always).🎙</li>
-  <li>Finding out where I can help.🙏🏽</li>
-</ul>
-<h2>What I am intersted in:</h2>
-<ul>
-  <li>Family(Both blood and not).🏠</li>
-  <li>People and equality.🫶🏽</li> 
-  <li>I am also interested in how we can preserve our beautiful Earth.🌎</li>
-  <li>I am interested in things beyond what we see. 💬</li>
-
-</ul>
+<div>
+  <h1>Just a person.</h1>
+</div>
 <!--
 **recursiveDan/recursiveDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

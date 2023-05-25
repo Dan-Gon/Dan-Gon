@@ -1,8 +1,8 @@
 <div>
   <h1>Greetings, my name is Daniel.</h1>
-  <h1>I am a technologist who is also passionate about people.</h1>
-  <h1>I am a person who is in recovery.</h1>
-  <h1>I am a firm believer in mental health and well-being.</h1>
+  <p>I am a technologist who is also passionate about people.</p>
+  <p>I am a person who is in recovery.</p>
+  <p>I am a firm believer in mental health and well-being.</p>
 </div>
 <!--
 **recursiveDan/recursiveDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

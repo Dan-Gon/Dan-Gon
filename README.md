@@ -3,6 +3,7 @@
   <p>I am a technologist who is also passionate about people.</p>
   <p>I am a person who is in recovery.</p>
   <p>I am a firm believer in mental health and well-being.</p>
+  <p>❤️🤠</p>
 </div>
 <!--
 **recursiveDan/recursiveDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
